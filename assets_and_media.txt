@@ -1,0 +1,9 @@
+http://stackshare.io/application-streaming
+http://stackshare.io/content-delivery-network
+http://stackshare.io/file-conversion
+http://stackshare.io/file-storage
+http://stackshare.io/file-transfer
+http://stackshare.io/file-uploads
+http://stackshare.io/image-processing-and-management
+http://stackshare.io/media-transcoding
+http://stackshare.io/screenshots-as-a-service

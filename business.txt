@@ -1,0 +1,10 @@
+Enter urlhttp://stackshare.io/business_tools
+Back Office  -----
+ http://stackshare.io/business
+Collaboration  -----
+ http://stackshare.io/collaboration
+Design  -----
+ http://stackshare.io/design
+Support, Sales, and Marketing  -----
+ http://stackshare.io/support,-sales,-and-marketing
+Length of list : 4
